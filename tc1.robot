@@ -1,6 +1,6 @@
 *** Settings ***
 Library  SeleniumLibrary
-
+Library squash_tf.TFParamService
 
 *** Variables ***
 ${browser}  Chrome
